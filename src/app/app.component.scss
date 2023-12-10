@@ -1,0 +1,26 @@
+table {
+  max-width: 500px;
+}
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+.tabela-usuarios {
+  margin: 100px 0 0 0;
+  width: 100%;
+}
+.select-usuarios {
+  max-width: 40%;
+}
+.input-qntd {
+  max-width: 10%;
+  font-size: 20px;
+}
+.container-transferir-pila {
+  max-width: 90% !important;
+  border: solid 1px;
+  margin-top: 50px;
+  padding: 10px;
+  border-radius: 10px;
+}
