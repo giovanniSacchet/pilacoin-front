@@ -23,7 +23,6 @@ export class AppComponent implements OnInit {
   transacaoUsuario: TransacaoUsuario;
   reportStatus: ReportStatus;
   logsServidor: Mensagem[] = [];
-  teste: string;
 
   estiverMinerandoPila = false;
   estiverMinerandoBloco = false;
